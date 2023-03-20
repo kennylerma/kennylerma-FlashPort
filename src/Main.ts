@@ -55,7 +55,7 @@ export class Main extends Sprite
 		
 		this.stage.scaleMode = StageScaleMode.NO_SCALE;
 		this.stage.align = StageAlign.TOP_LEFT;
-		this.stage.canvas.style.background = '#464646 url("/assets/blkcloth.webp") repeat';
+		this.stage.canvas.style.background = '#464646 url("./assets/blkcloth.webp") repeat';
 		this.stage.frameRate = 30;
 		
 		this._isMobile = MobileCheck.isMobile();
@@ -64,9 +64,9 @@ export class Main extends Sprite
 
 		const assetLoader:AssetLoader = new AssetLoader(
 			[
-				"assets/kennylerma.png",
-				"assets/Kenny.webp",
-				"assets/fonts/Arial.ttf"
+				"./assets/kennylerma.png",
+				"./assets/Kenny.webp",
+				"./assets/fonts/Arial.ttf"
 			]
 		);
 		assetLoader.addEventListener(AEvent.COMPLETE, this.init);

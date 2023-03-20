@@ -35,7 +35,7 @@ export class Samples extends Sprite
 	
 	public init():void 
 	{
-		var req:URLRequest = new URLRequest("../assets/samples.xml")
+		var req:URLRequest = new URLRequest("./assets/samples.xml")
 		var xmlLoader:URLLoader = new URLLoader();
 		xmlLoader.addEventListener(AEvent.COMPLETE, this.handleXMLLoaded);
 		xmlLoader.load(req);
