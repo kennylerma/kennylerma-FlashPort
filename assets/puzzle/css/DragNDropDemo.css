@@ -1,0 +1,30 @@
+html, body
+{
+	margin:0px;
+}
+
+/*container div to contrain size of canvas*/
+#DragNDropDemo
+{
+	padding: 0;
+	margin: auto;
+	display: block;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	width:1080px;
+	height:623px;
+}
+
+/*center image to div*/
+#DragNDropDemo img
+{
+	position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}

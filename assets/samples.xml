@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<sample poster="../assets/samples/Flashport.webp" url="https://flashport.org" target="blank" frameWidth="853" frameHeight="480" title="(Canvas) FlashPort.org Graphics Library" />
+	<sample poster="../assets/samples/MrAimlabsNightmare.webp" url="https://www.youtube.com/embed/Qtx2JPKtAng" frameWidth="853" frameHeight="480" title="(PlayCanvas) TikTok Game" />
+	<sample poster="../assets/samples/Isometric.webp" url="assets/isometric/index.html" frameWidth="900" frameHeight="580" title="(Canvas) Isometric Game Engine" />
+	<sample poster="../assets/samples/CanvasComponents.webp" url="assets/canvas_components/index.html" frameWidth="550" frameHeight="600" title="(Canvas) UI Components" />
+	<sample poster="../assets/samples/MotionDetection.webp" url="assets/motion_detection/index.html" frameWidth="550" frameHeight="600" title="(Canvas) Motion Detection" />
+	<sample poster="../assets/samples/VideoLoop.webp" url="assets/video_loop/index.html" frameWidth="608" frameHeight="380" title="(Canvas) Seamless Video Loop" />
+	<sample poster="../assets/samples/Puzzle.webp" url="assets/puzzle/index.html" frameWidth="800" frameHeight="500" title="(Canvas) Drag N Drop Puzzle" />
+	<sample poster="../assets/samples/BackBeat.webp" url="https://www.youtube.com/embed/Z9jmQ7fzpf8" frameWidth="853" frameHeight="480" title="(AS3) Multitrack Audio" />
+	<sample poster="../assets/samples/QSkits.webp" url="https://www.youtube.com/embed/XfNYgGS1Ex4" frameWidth="853" frameHeight="480" title="(AS3) Animated Skit Creator" />
+	<sample poster="../assets/samples/SoundFX.webp" url="https://www.youtube.com/embed/yYCSoTK0C_c" frameWidth="853" frameHeight="480" title="(AS3) Video with Multitrack Audio" />
+	<sample poster="../assets/samples/QuaverTV.webp" url="https://www.youtube.com/embed/P0Stn_tLcA0" frameWidth="853" frameHeight="480" title="(AS3) Custom Video Player" />
+	<sample poster="../assets/samples/NCC.webp" url="https://www.youtube.com/embed/diM7bqLz8a4" frameWidth="853" frameHeight="480" title="(PHP, MySql) Country Music Website" />
+	<sample poster="../assets/samples/UConnect.webp" url="https://www.youtube.com/embed/9sp_Ymk10Ek" frameWidth="853" frameHeight="480" title="(AS3 AIR) Hotel Desktop Kiosk" />
+	<sample poster="../assets/samples/USign.webp" url="https://www.youtube.com/embed/qBS-fpXpQfc" frameWidth="853" frameHeight="480" title="(AS3 AIR) Hotel Digital Signage" />
+	<sample poster="../assets/samples/Neighborhood.webp" url="https://www.youtube.com/embed/sh56MWZMQhc" frameWidth="853" frameHeight="480" title="(AS3) Flare3D Game Engine" />
+</data>
+

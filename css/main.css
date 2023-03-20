@@ -1,0 +1,17 @@
+body, html  
+{
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+#canvasDiv
+{
+	position:relative;
+}
+
+#overlayDiv
+{
+	z-index:999;
+	position:absolute;
+}

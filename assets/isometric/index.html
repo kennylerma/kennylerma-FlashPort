@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Isometric Test</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        html, body
+        {
+            margin:0px;
+        }
+    </style>
+    <script src="app.js"></script>
+</head>
+<body>
+   width:<input id="wInput" value="500" style="width: 40px;"></input>
+   height:<input id="hInput" value="500" style="width: 40px;"></input>
+
+   <script>
+       document.getElementById("wInput").addEventListener("keyup", updateGridSize);
+       document.getElementById("hInput").addEventListener("keyup", updateGridSize);
+
+       function updateGridSize()
+       {
+            app.gridSize(document.getElementById("wInput").value, document.getElementById("hInput").value);
+       }
+   </script>
+</body>
+</html>
