@@ -433,7 +433,7 @@ export class Main extends Sprite
 } 
 
 CanvasKitInit({
-    locateFile: (file) => './node_modules/canvaskit-wasm/bin/'+file,
+    locateFile: (file) => './assets/'+file,
 }).then((canvasKit:CanvasKit) => {
     FPConfig.canvasKit = canvasKit;
     new Main();
